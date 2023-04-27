@@ -1,1 +1,5 @@
-# News-Feed Project With NextJS13 build with Typscript and MongoDb Using Prisma For Seamless User Interaction
+# News-Feed Project 
+## Technologies
+1. NextJS13
+2. Typscript 
+3. MongoDb Atlas and Prisma For Seamless User Interaction
